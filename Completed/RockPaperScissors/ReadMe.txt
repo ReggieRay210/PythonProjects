@@ -1,0 +1,2 @@
+This Python code implements a simple Rock, Paper, Scissors game that allows the player to play against the computer.
+This code provides a simple and functional implementation of the classic Rock, Paper, Scissors game where the player plays against the computer. It handles player inputs, generates random computer choices, determines the winner of each round, and allows the player to play multiple rounds until they decide to stop.
