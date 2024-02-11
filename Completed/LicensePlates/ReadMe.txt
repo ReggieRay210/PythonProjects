@@ -1,0 +1,1 @@
+This code prompts the user to input a license plate string and then checks whether it satisfies various conditions to determine its validity. If the plate string meets all the criteria, it prints "Valid"; otherwise, it prints "Invalid".
