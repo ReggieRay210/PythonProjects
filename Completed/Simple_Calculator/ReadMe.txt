@@ -1,0 +1,1 @@
+This code provides a basic calculator functionality where users can perform addition, subtraction, multiplication, and division operations on two numbers. If the user inputs invalid information, the program handles it gracefully and continues to prompt for input until the user chooses to quit.
