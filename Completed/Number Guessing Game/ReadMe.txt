@@ -1,0 +1,2 @@
+This Python code implements a simple number guessing game where the player tries to guess a randomly chosen number between 1 and 10. 
+This code provides a simple and interactive number guessing game where the player tries to guess the randomly chosen number within three attempts. It handles player inputs, generates a random number, provides feedback on the correctness of the guesses, and informs the player of the outcome at the end of the game.
