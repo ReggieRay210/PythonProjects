@@ -1,0 +1,1 @@
+This code emulates a vending machine that repeatedly prompts the user to insert coins until the total amount due is paid off. It accepts only coins of values 5, 10, and 25 cents. Once the total amount due is zero or less, it prints out the change owed.
