@@ -1,0 +1,2 @@
+This Python code is a BMI (Body Mass Index) calculator. It prompts the user to input their weight in pounds (with an option for additional ounces) and their height in feet (with an option for additional inches). Then it converts these measurements into kilograms and meters, respectively, to calculate the BMI.
+This code allows users to input their weight and height and provides them with their BMI along with a classification of their weight status based on the BMI categories.
