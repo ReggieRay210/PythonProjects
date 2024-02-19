@@ -1,0 +1,2 @@
+This Python script, named figlet.py, is designed to generate ASCII art text using different fonts provided by the pyfiglet library. It expects 0 to 2 arguments to be passed at the command prompt.
+Overall, the script provides a simple command-line interface for generating ASCII art text with different fonts, allowing users to either select a specific font or let the program choose a random font if no preference is given.
