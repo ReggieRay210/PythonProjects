@@ -7,8 +7,8 @@ Overweight = BMI >= 25 and <30
 Obese = BMI >30"""
 
 #input raw data of height and weight
-weight = float(input("How much do you weight? (in whole pound)"))
-ounces = float(input("Any ounces to your weight?"))
+weight = float(input("How much do you weight? (in whole pound): "))
+ounces = float(input("Any ounces to your weight?: "))
 height = float(input("How Tall are you? (in whole feet): "))
 inches = float(input("Any inches to your Height:"))
 
@@ -27,7 +27,7 @@ print("Your height", new_height, "ft, is converted to ", convert_to_meters, "m")
 #Calculate the BMI 
 BMI = (convert_to_kg/(convert_to_meters**2))
 
-#if statements to see which condition the users input meets
+#if statements to see which condition the users' input meets
 if BMI >0:
     if BMI < 18.5:
         print("You are considered: 'Underweight'")
